@@ -1,0 +1,70 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    
+    
+}
+
+h1{
+    font-family: 'Inter', sans-serif;
+    color: #000;
+    font-size: 35px;
+    line-height: 30px;
+    font-weight: normal;
+}
+
+ div, p{
+    word-break: 
+}
+h1, span{
+    font-weight: bold;
+}
+
+span, a{
+    color: #ff9900;
+}
+
+p{
+    color: #7D7987;
+ 
+}
+
+.box-corpo{
+    
+    width: 450px;
+    height: 300px;
+    font-size:10px;
+    margin-top:60px;
+    margin-left:70px;
+    border-top: 1px solid rgb(196, 192, 192);
+}
+.box-corpo p{
+    padding-right: 5px;
+
+}
+.box-quatro{
+    position: fixed;
+    right: 10px;
+    top: 50px;
+}
+.lado{
+    width: 750px;
+    height: 600px;
+    margin-left: 750px;
+    margin-top: 200px;
+    font-size: 10px;
+    padding-top: 10px;
+
+}
+.lado img{
+    position: fixed;
+    right: 50px;
+    top: 250px;
+}
+
+a{   
+    position: relative;
+    left: 450px;
+    right: 0px;
+    margin-right: 10px;
+    padding-right: 10px;
+}
